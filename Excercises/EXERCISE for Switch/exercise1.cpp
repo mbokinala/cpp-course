@@ -60,7 +60,7 @@ main() {
     }
 
     char cont;
-    cout << "Make another choice? (Y/N)" << endl;
+    cout << "Make another choice? (Y/N): ";
     cin >> cont;
 
     if(cont == 'Y' || cont == 'y') {
