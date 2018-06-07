@@ -44,7 +44,7 @@ main() {
         }
     }
 
-    char contW
+    char cont;
     cout << "Do you want to continue? (Y/N): ";
     cin >> cont;
 
