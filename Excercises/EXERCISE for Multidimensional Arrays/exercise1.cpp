@@ -27,7 +27,7 @@ main() {
     cout << "Enter y: ";
     cin >> y;
 
-    cout << "Value at (" << x << ", " << y << ") is " << nums[x-1], [y-1] << endl;
+    cout << "Value at (" << x << ", " << y << ") is " << nums[x-1][y-1] << endl;
 
     char cont;
     cout << "Again? (Y/N): ";
